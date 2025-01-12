@@ -1,6 +1,7 @@
 import java.util.*;
 
 public class Main {
+<<<<<<< HEAD
     //Write a Java method that converts a list of strings into a list of integers,
     // assuming each string is a valid number. If a string is not a valid number,
     // replace it with 0.
@@ -107,4 +108,10 @@ public class Main {
 //    }
 
 
+=======
+
+    public static void main(String[] args) {
+        System.out.println("ultimate-design-patterns-udemy");
+    }
+>>>>>>> main/master
 }
