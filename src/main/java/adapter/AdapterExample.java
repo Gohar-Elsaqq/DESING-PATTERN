@@ -4,7 +4,7 @@ public class AdapterExample {
     public static void main(String[] args) {
         //Creating an object from the old system
 
-        EmployeeOldSystem oldEmployee = new EmployeeOldSystem("Ahmed", 1060415152);
+        EmployeeOldSystem oldEmployee = new EmployeeOldSystem("Ahmed", 01060415152);
 
         //Use the converter to get a new interface
 
